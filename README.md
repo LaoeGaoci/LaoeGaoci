@@ -8,6 +8,8 @@
 - ⚡ 有趣的事实：[哈哈哈哈大部分都是学校的实训]
 
 ### 🚀 技术栈
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
