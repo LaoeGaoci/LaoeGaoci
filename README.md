@@ -4,7 +4,7 @@
 - 🎓 我是[北京交通大学软件学院]的[学生]
 - 🔭 目前正在做：[学校的实践作业与量化金融相关实践]
 - 🌱 正在学习：[量化金融]
-- 🤔 寻求帮助：[寻求量化金融相关实践]
+- 🤔 寻求帮助：[寻求量化金融，机器学习，前端设计相关实践]
 - ⚡ 有趣的事实：[哈哈哈哈大部分都是学校的实训]
 
 ### 🚀 技术栈
@@ -12,7 +12,9 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+![MyBatis-Plus](https://img.shields.io/badge/-MyBatis--Plus-333333?style=flat&logo=java)
 
 ### 📈 GitHub 统计
 <p align="left">
@@ -25,7 +27,7 @@
 
 ### 📫 联系我
 - Email: erq040609@gmail.com
-
+- Email: 1523796237@qq.com
 
 <!---
 LaoeGaoci/LaoeGaoci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
