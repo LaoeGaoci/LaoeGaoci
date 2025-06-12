@@ -16,7 +16,6 @@
 
 ### 📈 GitHub 统计
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaoeGaoci&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaoeGaoci&layout=compact&hide_border=true&theme=radical" />
 </p>
 
